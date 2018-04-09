@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola emi
+=======
+Soy Rama, Soy Pablo
+>>>>>>> 74527ff910fbbf1a7c3e4359ce948db598319b59
